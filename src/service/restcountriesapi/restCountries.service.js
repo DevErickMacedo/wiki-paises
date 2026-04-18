@@ -1,4 +1,4 @@
-import restCountriesApi from "./restcountries.api";
+import restCountriesApi from "./restCountries.api";
 
 const restCountriesService = {
     listCountries: async () => {
